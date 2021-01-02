@@ -57,7 +57,7 @@ logo = """
 \033[1;91mOwNeR  \033[1;93m: \033[1;94mWAHAB RATAB
 \033[1;91mYouTube \033[1;93m: \033[1;94m WAHAB RATAB
 \033[1;91mGitHub  \033[1;93m: \033[1;94mhttps://github.com/wahab-ratab
-\033[1;91mGang \033[1;93m: \033[1;94m S P G
+\033[1;91mGang \033[1;93m: \033[1;94m  💘 S P G 💘
 \033[1;97m======================================="""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -93,10 +93,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+            os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCSBo6pozMOA')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+        os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCxp4o6pozMOA')
 def methodlogin():
 	os.system('clear')
 	print logo
@@ -120,7 +120,7 @@ def methodlogin():
 		hopa.close()
 		print "\n[✓] Logged In Successfully."
 		time.sleep(1)
-		os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+		os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCxpo6pozMOA')
 		menu()
 	elif hos =="0":
 		exit()
@@ -151,7 +151,7 @@ def login():
 		    st.close()
 		    print "\n[✓] Logged In Successfully."
 		    time.sleep(1)
-		    os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+		    os.system('xdg-open https://www.youtube.com/channel/UCe6wmIybCxSB4o6pozMOA')
 		    os.system("clear")
 		    menu()
 		else:
@@ -194,7 +194,7 @@ def menu():
 	print "\033[1;96m[\033[1;97m \033[1;96m]\033[1;93m Name \033[1;91m: \033[1;92m"+nama+"\033[1;97m               "
 	print "\033[1;96m[\033[1;97m \033[1;96m]\033[1;93m ID   \033[1;91m: \033[1;92m"+id+"\x1b[1;97m              "
 	print 42*"\033[1;96m="
-	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Start CLONING WITH JAM"
+	print "\x1b[1;96m[\x1b[1;92m1\x1b[1;96m]\x1b[1;93m Start CLONING WITH RATAB "
 	print "\x1b[1;96m[\x1b[1;91m0\x1b[1;96m]\x1b[1;91m Exit            "
 	pilih()
 def pilih():
