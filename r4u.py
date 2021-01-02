@@ -41,17 +41,23 @@ def hamza(z):
 		time.sleep(0.1)
 ##### LOGO #####
 logo = """
-\033[1;92m___  ____   _ _____ _   __  ___   _   _ 
-\033[1;92m|  \/  | | | /  ___| | / / / _ \ | \ | |
-\033[1;92m| .  . | | | \ `--.| |/ / / /_\ \|  \| |
-\033[1;92m| |\/| | | | |`--. \    \ |  _  || . ` |
-\033[1;92m| |  | | |_| /\__/ / |\  \| | | || |\  |
-\033[1;92m\_|  |_/\___/\____/\_| \_/\_| |_/\_| \_/ 
+\033[1;92m
+
+▒█▀▀█ ░█▀▀█ ▀▀█▀▀ ░█▀▀█ ▒█▀▀█ 
+
+▒█▄▄▀ ▒█▄▄█ ░▒█░░ ▒█▄▄█ ▒█▀▀▄ 
+
+▒█░▒█ ▒█░▒█ ░▒█░░ ▒█░▒█ ▒█▄▄█
+\033[1;92m
+\033[1;92m
+\033[1;92m
+\033[1;92m
+\033[1;92m
 \033[1;97m=======================================
-\033[1;91mOwNeR  \033[1;93m: \033[1;94mJAM SHAHRUKH X MUSKAN NOOR
-\033[1;91mYouTube \033[1;93m: \033[1;94mJAM SHAHRUKH TECHNICAL
-\033[1;91mGitHub  \033[1;93m: \033[1;94mhttps://github.com/muskanckg
-\033[1;91mGang \033[1;93m: \033[1;94mCRAZY KING GANG
+\033[1;91mOwNeR  \033[1;93m: \033[1;94mWAHAB RATAB
+\033[1;91mYouTube \033[1;93m: \033[1;94m WAHAB RATAB
+\033[1;91mGitHub  \033[1;93m: \033[1;94mhttps://github.com/wahab-ratab
+\033[1;91mGang \033[1;93m: \033[1;94m S P G
 \033[1;97m======================================="""
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -69,14 +75,14 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;97m ========================================="
 print  """\033[1;97m=======================================
-\033[1;91mOwNeR  \033[1;93m: \033[1;94mJAM SHAHRUKH X MUSKAN NOOR
-\033[1;91mYouTube \033[1;93m: \033[1;94mJAM SHAHRUKH TECHNICAL
-\033[1;91mGitHub  \033[1;93m: \033[1;94mhttps://github.com/muskanckg
-\033[1;91mGang \033[1;93m: \033[1;94mCRAZY KING GANG
+\033[1;91mOwNeR  \033[1;93m: \033[1;94mWAHAB RATAB
+\033[1;91mYouTube \033[1;93m: \033[1;94m WAHAB RATAB
+\033[1;91mGitHub  \033[1;93m: \033[1;94mhttps://github.com/wahab-ratab
+\033[1;91mGang \033[1;93m: \033[1;94m S P G
 \033[1;97m======================================="""
 print " \x1b[1;97m=========================================="
-CorrectUsername = "jam"
-CorrectPassword = "muskan"
+CorrectUsername = "rtb"
+CorrectPassword = "rtb"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
@@ -183,7 +189,7 @@ def menu():
 		keluar()
 	os.system("clear")
 	print logo
-	print " MUSKAN QUEEN OF FACEBOOK "
+	print " RATAB KING OF FACEBOOK "
 	print 42*"\033[1;96m="
 	print "\033[1;96m[\033[1;97m \033[1;96m]\033[1;93m Name \033[1;91m: \033[1;92m"+nama+"\033[1;97m               "
 	print "\033[1;96m[\033[1;97m \033[1;96m]\033[1;93m ID   \033[1;91m: \033[1;92m"+id+"\x1b[1;97m              "
